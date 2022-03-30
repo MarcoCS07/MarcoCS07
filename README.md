@@ -26,6 +26,8 @@ I am a physics graduate from Mexico :mexico: interested in programming, big data
   ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=white&labelColor=101010)
 
   
+## 💼 Porfolio
+Under the directory [LittleProjects](https://github.com/MarcoCS07/MarcoCS07/tree/main/LittleProjects) you can find some projects I realized for job interviews or just for fun.
 <!--https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif
 https://media.giphy.com/media/BQl4KCdqhEX8cQoy9C/giphy.gif
 https://media.giphy.com/media/yjEz2zQGRJYKlRZg0g/giphy.gif
